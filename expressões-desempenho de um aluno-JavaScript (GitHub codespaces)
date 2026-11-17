@@ -1,0 +1,7 @@
+// programa: classificação de desempenho do aluno 
+// lé a nota no terminal (node.js) e exibe o resultado
+
+// importa o múdulo readline do node.js
+const readline = require('readline');
+// cria a interfacee de entrada e saída (terminal)
+const rl = 
